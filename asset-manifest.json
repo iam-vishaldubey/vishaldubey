@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishaldubey/static/css/main.b0b722a8.css",
+    "main.js": "/vishaldubey/static/js/main.4f110bfe.js",
+    "index.html": "/vishaldubey/index.html",
+    "main.b0b722a8.css.map": "/vishaldubey/static/css/main.b0b722a8.css.map",
+    "main.4f110bfe.js.map": "/vishaldubey/static/js/main.4f110bfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b722a8.css",
+    "static/js/main.4f110bfe.js"
+  ]
+}
